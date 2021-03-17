@@ -1,0 +1,10 @@
+datasets
+scipy
+sklearn
+matplotlib
+plotly
+seaborn
+jupyter
+jupyterthemes
+jupyter_contrib_nbextensions
+yapf
